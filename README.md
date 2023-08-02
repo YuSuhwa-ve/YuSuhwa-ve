@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div align = right> <a href="https://www.instagram.com/sojung.pp">
     <img 
         src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/sojung.pp"
@@ -33,13 +33,16 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=https://sojungpp.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
-
+-->
 ## 🍊 Suhwa Yu
 - 🏫 Sookmyung Women`s University - Computer Science
+
+- <!--
 - ☀️ SK LOOKIE 5th 2021.03 ~ 2022.03
 - 🌿 UMC 2nd, 3rd Server Part. 2022.03 ~ 2023.02
 - 🌈 MJU GDSC 1st 2022.10 ~ 
 - 🦋 SOPT 32th Server Part. 2023.03 ~
+- -->
 <br>
 <br>
 <div align=center>
