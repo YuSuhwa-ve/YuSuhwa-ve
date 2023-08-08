@@ -13,36 +13,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<div align = right> <a href="https://www.instagram.com/sojung.pp">
+
+<div align = right> 
+<a href="mailto:dhfhfkzjxms@sookmyung.ac.kr">
     <img 
-        src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/sojung.pp"
+        src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=EA4335&link=mailto:dhfhfkzjxms@sookmyung.ac.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:sophie2458@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:sophie2458@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 </a>
-<a href="https://broadleaf-mist-919.notion.site/f65516d49a8e4165bec8a2c7711a78b5?pvs=4">
+<a href="https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4">
     <img 
-        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://broadleaf-mist-919.notion.site/f65516d49a8e4165bec8a2c7711a78b5?pvs=4"
+        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white&link=https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <!--
+    <img 
+        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+-->
+    
 </a>
 <a href="https://velog.io/@yu_suhwa-ve">
     <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=https://sojungpp.tistory.com/"
+        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=https://velog.io/@yu_suhwa-ve"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
--->
+
+
 ## 🍊 Suhwa Yu
 - 🏫 Sookmyung Women`s University - Computer Science
+- SOPT 31th, 32th Server Part. 2022.09 ~ 2023.08
+- SWMU GDSC 2022.09 ~ 2023.06
+- SWMU Like Lion 8th, 9th 2020.03 ~ 2022.02
 
-- <!--
-- ☀️ SK LOOKIE 5th 2021.03 ~ 2022.03
-- 🌿 UMC 2nd, 3rd Server Part. 2022.03 ~ 2023.02
-- 🌈 MJU GDSC 1st 2022.10 ~ 
-- 🦋 SOPT 32th Server Part. 2023.03 ~
-- -->
 <br>
 <br>
 <div align=center>
