@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<div align=center>
+<div>
   
 ![YuSuhwa-ve's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuSuhwa-ve&show_icons=true&theme=great-gatsby)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=potatoisgood)](https://solved.ac/potatoisgood/)
 </div>
