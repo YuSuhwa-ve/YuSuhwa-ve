@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ## 🍊 Suhwa Yu
 - 🏫 Sookmyung Women`s University - Computer Science
+- 💚 HANA DIGITAL POWER ON 2nd
 - 🍋 SOPT 31th, 32th Server Part. 2022.09 ~ 2023.08
 - 🥭 SWMU GDSC 2022.09 ~ 2023.06
 - 🍐 SWMU Like Lion 8th, 9th 2020.03 ~ 2022.02
