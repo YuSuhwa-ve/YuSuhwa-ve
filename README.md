@@ -21,6 +21,9 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 </a>
+
+
+<!--
 <a href="https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4">
     <img 
         src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white&link=https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4"
