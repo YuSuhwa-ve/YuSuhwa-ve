@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
 <div align = right> 
 <a href="mailto:dhfhfkzjxms@sookmyung.ac.kr">
     <img 
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<!--
+
 <a href="https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4">
     <img 
         src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white&link=https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4"
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
     <img 
         src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://suhwa-yu.notion.site/Yu-SuHwa-6b03392c8ec04ea5a68f50e4ce7f2141?pvs=4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
--->
+
     
 </a>
 <a href="https://velog.io/@yu_suhwa-ve">
@@ -40,6 +42,8 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=https://velog.io/@yu_suhwa-ve"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
+
+-->
 
 
 ## 🍊 Suhwa Yu
